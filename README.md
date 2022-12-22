@@ -1,4 +1,4 @@
-<h1> Coucou 👋🏾 </h1>
+<h1> Hey 👋🏾 </h1>
 
 <h3>
 🦋 Je suis Salma, Développeuse web junior </br>
