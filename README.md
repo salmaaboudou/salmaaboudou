@@ -1,10 +1,10 @@
 <h1> Coucou ✨</h1>
 
-<p align="center">
+<span align="center">
 
 <img src ="https://user-images.githubusercontent.com/108698193/209576735-a75c7b7d-4d25-4935-a5c9-1a3f882e4d7b.svg" width="300">
    
-</p>
+</span>
 
 <h3>
 💜Je suis Salma, Développeuse web junior </br>
